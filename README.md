@@ -49,8 +49,8 @@ const killerhub = {
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=killerihejirika098x&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killerihejirika098x&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="top langs" /></td>
+    <td><img src="https://raw.githubusercontent.com/killerihejirika098x/killerihejirika098x/main/assets/stats.svg" alt="stats" /></td>
+    <td><img src="https://raw.githubusercontent.com/killerihejirika098x/killerihejirika098x/main/assets/langs.svg" alt="top langs" /></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><img src="https://streak-stats.demolab.com?user=killerihejirika098x&theme=radical&hide_border=true&background=0d1117" alt="streak" /></td>
@@ -61,7 +61,7 @@ const killerhub = {
 ## // achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=killerihejirika098x&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="trophies" />
+  <img src="https://raw.githubusercontent.com/killerihejirika098x/killerihejirika098x/main/assets/achievements.svg" alt="achievements" />
 </p>
 
 <!-- ══ repos ══ -->
@@ -69,9 +69,9 @@ const killerhub = {
 
 <table align="center">
   <tr>
-    <td align="center" width="33%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=killerihejirika098x&repo=PATRON-MD3&theme=radical&hide_border=true&bg_color=0d1117" alt="PATRON-MD3" /></td>
-    <td align="center" width="33%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=killerihejirika098x&repo=Knightbot-MD&theme=radical&hide_border=true&bg_color=0d1117" alt="Knightbot-MD" /></td>
-    <td align="center" width="33%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=killerihejirika098x&repo=IMMU-MD&theme=radical&hide_border=true&bg_color=0d1117" alt="IMMU-MD" /></td>
+    <td align="center" width="33%"><img src="https://raw.githubusercontent.com/killerihejirika098x/killerihejirika098x/main/assets/pin-PATRON-MD3.svg" alt="PATRON-MD3" /></td>
+    <td align="center" width="33%"><img src="https://raw.githubusercontent.com/killerihejirika098x/killerihejirika098x/main/assets/pin-Knightbot-MD.svg" alt="Knightbot-MD" /></td>
+    <td align="center" width="33%"><img src="https://raw.githubusercontent.com/killerihejirika098x/killerihejirika098x/main/assets/pin-IMMU-MD.svg" alt="IMMU-MD" /></td>
   </tr>
 </table>
 

@@ -1,0 +1,21 @@
+﻿<svg xmlns='http://www.w3.org/2000/svg' width='380' height='290' viewBox='0 0 380 290'>
+<rect x='0' y='0' width='380' height='290' rx='14' fill='#0d1117' stroke='#1f2430'/>
+<text x='28' y='52' font-family='Fira Code,Consolas,Menlo,monospace' font-size='17' font-weight='bold' fill='#fe428e'>@killerihejirika098x</text>
+<text x='30' y='74' font-family='Segoe UI,Roboto,Helvetica,Arial,sans-serif' font-size='10' fill='#8b8fa3'>system stats :: refreshed daily via workflow</text>
+<circle cx='34' cy='106' r='4' fill='#00d9ff'/>
+<text x='48' y='112' font-family='Segoe UI,Roboto,Helvetica,Arial,sans-serif' font-size='13' fill='#8b8fa3'>total stars earned</text>
+<text x='352' y='112' text-anchor='end' font-family='Fira Code,Consolas,Menlo,monospace' font-size='15' font-weight='bold' fill='#a9fef7'>0</text>
+<line x1='30' y1='122' x2='350' y2='122' stroke='#1b2130' stroke-width='1'/>
+<circle cx='34' cy='135' r='4' fill='#fe428e'/>
+<text x='48' y='141' font-family='Segoe UI,Roboto,Helvetica,Arial,sans-serif' font-size='13' fill='#8b8fa3'>total forks</text>
+<text x='352' y='141' text-anchor='end' font-family='Fira Code,Consolas,Menlo,monospace' font-size='15' font-weight='bold' fill='#a9fef7'>0</text>
+<line x1='30' y1='151' x2='350' y2='151' stroke='#1b2130' stroke-width='1'/>
+<circle cx='34' cy='164' r='4' fill='#fe428e'/>
+<text x='48' y='170' font-family='Segoe UI,Roboto,Helvetica,Arial,sans-serif' font-size='13' fill='#8b8fa3'>public repositories</text>
+<text x='352' y='170' text-anchor='end' font-family='Fira Code,Consolas,Menlo,monospace' font-size='15' font-weight='bold' fill='#a9fef7'>4</text>
+<line x1='30' y1='180' x2='350' y2='180' stroke='#1b2130' stroke-width='1'/>
+<circle cx='34' cy='193' r='4' fill='#00d9ff'/>
+<text x='48' y='199' font-family='Segoe UI,Roboto,Helvetica,Arial,sans-serif' font-size='13' fill='#8b8fa3'>followers</text>
+<text x='352' y='199' text-anchor='end' font-family='Fira Code,Consolas,Menlo,monospace' font-size='15' font-weight='bold' fill='#a9fef7'>0</text>
+</svg>
+
