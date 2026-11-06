@@ -16,6 +16,6 @@
 <line x1='30' y1='180' x2='350' y2='180' stroke='#1b2130' stroke-width='1'/>
 <circle cx='34' cy='193' r='4' fill='#00d9ff'/>
 <text x='48' y='199' font-family='Segoe UI,Roboto,Helvetica,Arial,sans-serif' font-size='13' fill='#8b8fa3'>followers</text>
-<text x='352' y='199' text-anchor='end' font-family='Fira Code,Consolas,Menlo,monospace' font-size='15' font-weight='bold' fill='#a9fef7'>0</text>
+<text x='352' y='199' text-anchor='end' font-family='Fira Code,Consolas,Menlo,monospace' font-size='15' font-weight='bold' fill='#a9fef7'>1</text>
 </svg>
 
